@@ -4,7 +4,7 @@
 </p>  
 
 __GitHub: @Pierregarnr__    
-__LinkedIn: @Pierre Garnier__  
+__LinkedIn: [@Pierre Garnier](https://www.linkedin.com/in/pierre-garnier-50650824b/)__  
 
 Projet 5 - Construisez un site e-commerce en JavaScript "Kanap"   
 Créer des interfaces dynamiques.
