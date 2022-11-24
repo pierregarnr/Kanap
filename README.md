@@ -7,7 +7,8 @@ __GitHub: @Pierregarnr__
 __LinkedIn: @Pierre Garnier__  
 
 Projet 5 - Construisez un site e-commerce en JavaScript "Kanap"   
-Créer des interfaces dynamiques Le site hébergé sur GitHub : Kanap Construire un site Web e-commerce en Javascript 
+Créer des interfaces dynamiques.
+Kanap Construire un site Web e-commerce en Javascript.
 
 * Compétences évaluées 
 * Gérer des événements JavaScript 
